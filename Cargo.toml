@@ -1,0 +1,8 @@
+[package]
+name = "nasm_executor"
+version = "0.1.0"
+authors = ["Dario Bartussek <d.bartussek@gmail.com>"]
+edition = "2018"
+
+[build-dependencies]
+nasm-rs = "0.1"
